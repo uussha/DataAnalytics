@@ -1,0 +1,29 @@
+Log Level Counts:
++---------+-----+
+|log_level|count|
++---------+-----+
+|     INFO|    3|
+|    ERROR|    2|
+|  WARNING|    1|
++---------+-----+
+
+ERROR Logs:
++-------------------+---------+--------------------+
+|          timestamp|log_level|             message|
++-------------------+---------+--------------------+
+|2024-12-18 10:16:02|    ERROR|      Page not found|
+|2024-12-18 11:30:10|    ERROR|Database connecti...|
++-------------------+---------+--------------------+
+
+Logs Count Per Hour:
++----+---------+
+|hour|log_count|
++----+---------+
+|  12|        1|
+|  10|        3|
+|  11|        2|
++----+---------+
+
+SUCCESS: The process with PID 6676 (child process of PID 17640) has been terminated.
+SUCCESS: The process with PID 17640 (child process of PID 12064) has been terminated.
+SUCCESS: The process with PID 12064 (child process of PID 7408) has been terminated.

@@ -1,0 +1,6 @@
+2024-12-18 10:15:32 INFO User logged in
+2024-12-18 10:16:02 ERROR Page not found
+2024-12-18 10:17:20 INFO Data uploaded successfully
+2024-12-18 11:05:45 WARNING Low disk space
+2024-12-18 11:30:10 ERROR Database connection failed
+2024-12-18 12:10:12 INFO User logged out
